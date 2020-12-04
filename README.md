@@ -1,6 +1,5 @@
-# Bitsy
-Bitsy is a little editor for games, worlds, or stories.
-The goal is to make it easy to make games where you can walk around and talk to people and be somewhere!
+#̶̴̷̖̇ͩ̍̊̇́́̏͘ B̫҉͎̠͓̎ͬ̎͜ͅị͆t̵̵͈̭́ͦ̍̿̚s̴͍̀̉̈ͤ̆̕y̧̮̘̙͙̯͌̒
+B̴̷̠̍ï̷̡͖͈̰̘̰̬̎̅͠͞t̸̡̻͈̟̠̮͈ͣ̌̔̂͟͟͡s͇͖̱̝̀y̞͈̬̝ͯͪ̈͊̈́̈͘ ĩ̦̠̹ͨs̡͎̳ͧ ả̛͎̭͕͋ͭ̈͊̀̿ͯ̀͟͞ l̴̢̹̦͉̹͋̓î͓̽̃t͎̺̳͢͡͏t̵̤̳͎ͩ̀̇̋́̚̕͠͝l̷̴̡͍̥͍̑́͌ͬ̽eͬ͏̮̳ͣ̎̈̀̕ e̷̢͂̌̊̽͜d̦͘͠i̵̶̶̴̢͖̲̦̱̒̾̋̔ͩţ̜̼͗o̴̢̳͈̺r͝ͅ ḟ̵̢̢̺̌̊oͨ͆ͦŗ̖͎̥̭̱͗ͤ͑̈́̕͢ g̙͍͐̓͘͢am̗̿e̵̤̟͘͜ͅs̵̵̨,̨͓͔͉͓̉̊͆͋͒͑̍͝͠ w̺̤̯͍͌̽̑͌̊͐͟or̡̆͆͏̸̧͖̉l͟͢͡d̶̸̨̝͛s̷̨͕̿̏͝,͔̣̫̰̺̯ͤ͟͡ ǫ̵̴̲̺͓ͧ̍̕͞r̓̋͊͝͏̶̡̛͚̩͂̓̾ sͧ̿ͥ͞҉̫͖͙̗̜́͌̒t̵̀ò̫̬̦͕̺͈͂͆̃̏̇͐͟͝rͥ͝i͓̱̺̦̣̋́́͘͢͡ȩ̷̨̰͔ͨͥ̏ͤ͜͜͠ͅͅs̢͈ͦ.̧̜̻̜̈́͢҉͜ ̪̘͡T̴͛͏̸̡̠̹̄ͩ͢͠h̵͍̼̰͍͂͂̔͢҉͖͎̿e̲̝ͬ͡͝ g̶̸̴̷̨̗͕̓ͫ̈͘̚͟͡o̯͔͕̼͋ͮ͌̇͘͟͝ͅal̢̽͊ͅ i̡̛͍ͤ̐s̾ͥ͛ ţ̹͎̰̼̊̅͗o͚͕͚̺̱̬̠͛ͧͩ͜͡͝҉́ m̴͏̸̴̝͖̹ͅa̕҉̢̐̔ͅk̷̟̓̌͐̋̈́͡ē̷̛̦̬̤ͣ̒͛̔̅͝ i̟͙̰̩̪̼̺̘̔ͧ̿̊҉t̢̥͖̬̟͛͆̀̕̕͟͢͜ é͘a̰͏̰̭s̨̢͉̫̞̖̹͔̉̄͋́ͫ͘͞ỹ̺͝͏̝͔̫̜̯͋ͮ͌͢҉̞ t͙̀ͮͫ͆̿͘ͅͅo̼ m̡̤͚̞ͯak̑ͪ̈́͏e̹̾͘͟͏̵̵̙̝̖̙̔́̓ͤ g̴̢̨͙͖̲ͯͩ͢͟͜ͅą͕ͭͨ̇̀m͘͏̶̜̲̿͋̂ͥȩ̸̢̧̛̪͚̹͇͙ͭ̌̐̚̕s̗͎͉̠̋ w҉̫҉͓̼͊ͫͥh̀̅͟͡͠͠͝ē̗͒͢͏͕͉̉͗́͠r̵̸̲̭̠̗̯͌̏͆͞͝e̴̶͚͈̻̼̔̓ y̴̤̱͍̲̺ͭ̎̐͒̍̕ͅơ̳͕ͯͬ͘͡͠u͠ c̸̝̜̙̻̫͋̅̾̋̎̑͘͜à̀ṉ͒͡͝ w̧͏̴̥̪̠̯̫͍̄̊̀͜a̕l̔ķ̜̜͈͚̆̈́͒ͦͩ̀͞ aȓ̩͇̖̑͘͡͝ợ̮͖̿͑͟uͥn͝҉͈͈ͭd͏̡̀͢҉ͩ͏ a̛̛̳̩̭͑͠ñ̶̢̲́ͪ̋͊d̛ͨ t̘̻̞̓҉̜͒a̴̖̥̪̮͖̒̇ͣ́̚͟͝͠ͅlk̨̛͚͎̭̓̀ͨͯ͡ ṯ̶̱̮̏̒̔ͅo̡͉̜͗҉͊ͮͥ̾̅ͤ͜͜ pͦ͊͌͢͏͇̕e̶̋҉̨̣̱̺̒ͦ̉͜͠҉̮͝o̧ͪp̎̓l̶̡̛̻̪̬̖̑̊ͦ͢e̷̵̤̲͙̙̬̔͗͊̎͠ a̓́͗ň̡̨̇͏̞͙̼͉ͥͪ͟͟d̷̈̋ͩ b̤͕̲͎̼̤͖̠̰̪͐̂ͣ̌͠e͕ sͯò̵̬̝͉̻͈͐͑̕͜͢m̵̡̛̅è͙̣͙͒̇͜w̸̟̥͓h̢͙͙̲̭̣̪̯ͮͤ͗ͩ͟͠ȩ̿́ͮͮ͐͟rͬ̊e̫̒̕!̴ͩ͑ͦͯ̇͏͓̾
 
 # Make a game with Bitsy
 You can use [the Bitsy editor](https://ledoux.itch.io/bitsy) in your browser on itch.io! When you've finished your game, you can download it as an html file and share it. :)
@@ -8,3 +7,4 @@ You can use [the Bitsy editor](https://ledoux.itch.io/bitsy) in your browser on 
 # Bug reports
 If you find a bug in Bitsy, please submit [an issue here](https://github.com/le-doux/bitsy/issues).
 I am in the process of moving my bug backlog into github.
+
